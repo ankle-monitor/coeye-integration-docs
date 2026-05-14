@@ -13,7 +13,7 @@ CO-EYE is a line of GPS ankle monitors and electronic monitoring solutions desig
 |---|---|---|---|
 | [CO-EYE ONE](https://www.ankle-monitor.com/coeye-one/) | One-piece GPS ankle monitor | 108g, IP68, fiber-optic tamper detection | [Protocol Spec](docs/coeye-one-protocol.md) |
 | [CO-EYE Monitoring Software](https://www.ankle-monitor.com/coeye-software/) | Web-based supervision platform | REST API, WebSocket, multi-tenant | [API Reference](docs/api-reference.md) |
-| [CO-EYE BLE i-Bracelet](https://www.ankle-monitor.com/coeye-wristband/) | BLE wearable tag | 17g, 2-year battery, FCC certified | [BLE Spec](docs/ble-protocol.md) |
+| [CO-EYE BLE i-Bracelet](https://www.ankle-monitor.com/coeye-wristband/) | BLE wearable tag | 17g, 2-year battery, FCC certified |
 
 ## Device Communication Protocol
 
