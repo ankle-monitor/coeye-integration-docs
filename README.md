@@ -65,4 +65,4 @@ Founded in 2004, [REFINE Technology](https://www.ankle-monitor.com) manufactures
 
 ## License
 
-Documentation is provided under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Protocol specifications are proprietary — contact sales@ankle-monitor.com for integration licensing.
+Documentation is provided under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Protocol specifications are proprietary — contact support@rfidcn.com for integration licensing.
